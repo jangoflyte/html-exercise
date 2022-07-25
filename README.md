@@ -1,3 +1,3 @@
 # This is for an html-exercise
-# Author: Miguel Castro
-# SSDI#1
+Author: Miguel Castro
+SSDI#1
