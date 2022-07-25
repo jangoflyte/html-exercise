@@ -1,3 +1,3 @@
-# This is for an html-exercise
+# HTML-Exercise
 Author: Miguel Castro
 SSDI#1
